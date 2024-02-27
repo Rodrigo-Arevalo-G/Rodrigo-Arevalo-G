@@ -10,7 +10,7 @@
 - A Computer Science Student
 - Currently learning Web Development by Self
 - Portfolio website [link](https://www.google.com/search?q=not+ready&tbm=isch&ved=2ahUKEwidtuXN98eEAxWBEt4AHb3zD78Q2-cCegQIABAA&oq=not+ready&gs_lp=EgNpbWciCW5vdCByZWFkeTIFEAAYgAQyBRAAGIAEMgQQABgeMgQQABgeMgQQABgeMgQQABgeMgQQABgeMgQQABgeMgQQABgeMgQQABgeSK0fUOQNWJEccAB4AJABAJgBkwGgAYIJqgEEMC4xMLgBA8gBAPgBAYoCC2d3cy13aXotaW1nwgIEECMYJ8ICCBAAGIAEGLEDwgILEAAYgAQYsQMYgwHCAgoQABiABBiKBRhDiAYB&sclient=img&ei=HvTbZZ2vKoGl-LYPvee_-As&bih=695&biw=1536#imgrc=DwdkbLz57sk4WM)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](../EnCV.pdf)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](/EnCV.pdf)
 
 <br><br>
 
